@@ -4,7 +4,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1005870383368503388)](https://discord.com/users/1005870383368503388)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guipmoraes" alt="sp3ctrostorm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/indr4security" target="blank"><img src="https://img.shields.io/twitter/follow/indr4security?logo=twitter&style=for-the-badge" alt="indr4security" /></a> </p>
 
 
 <h3 align="left">Fale Comigo:</h3>
