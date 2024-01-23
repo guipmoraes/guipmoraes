@@ -9,7 +9,6 @@
 <h3 align="left">Fale Comigo:</h3>
 <p align="left">
 <a href="https://dev.to/guipmoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="guipmoraes" height="30" width="40" /></a>
-<a href="https://instagram.com/imguimoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sql.gui_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
