@@ -1,7 +1,7 @@
 
 <h3 align="center">Guilherme Moraes</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1005870383368503388)](https://discord.com/users/1005870383368503388)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1005870383368503388)](https://discord.com/users/1166394643185934439)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guipmoraes" alt="sp3ctrostorm" /></a> </p>
 
 
@@ -9,7 +9,7 @@
 <h3 align="left">Fale Comigo:</h3>
 <p align="left">
 <a href="https://dev.to/guipmoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="guipmoraes" height="30" width="40" /></a>
-<a href="https://instagram.com/_sql.gui_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sql.gui_" height="30" width="40" /></a>
+<a href="https://instagram.com/imguimoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sql.gui_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
